@@ -1,0 +1,5 @@
+name: Drugs
+main: com.gmail.anemovva.drugs.Drugs
+version: 1.0
+description: Adds many drugs with different effects. Needs lores plugin to assign lores to drugs.
+api-version: 1.16
